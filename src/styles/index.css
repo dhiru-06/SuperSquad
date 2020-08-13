@@ -1,0 +1,27 @@
+body{
+    background-image: url('../assests/bg.jpg');
+    background-repeat: none;
+    background-size: cover;
+    background-color: rgba(0,0,0,0.2);
+    height: 100%;
+    opacity: 1;
+    
+}
+
+.App{
+    text-align: center;
+    padding: 5%;
+    font-size: large;
+    font-weight: 500;
+    
+}
+
+.right-btn{
+    cursor: pointer;
+    float: right;
+}
+
+.list-item{
+    display: inline-block;
+    padding: 2%;
+}
