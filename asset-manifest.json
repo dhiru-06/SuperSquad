@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SuperSquad/static/css/main.49fb76cc.chunk.css",
+    "main.js": "/SuperSquad/static/js/main.bafcd27b.chunk.js",
+    "main.js.map": "/SuperSquad/static/js/main.bafcd27b.chunk.js.map",
+    "runtime-main.js": "/SuperSquad/static/js/runtime-main.ab62cc3f.js",
+    "runtime-main.js.map": "/SuperSquad/static/js/runtime-main.ab62cc3f.js.map",
+    "static/js/2.75b17cce.chunk.js": "/SuperSquad/static/js/2.75b17cce.chunk.js",
+    "static/js/2.75b17cce.chunk.js.map": "/SuperSquad/static/js/2.75b17cce.chunk.js.map",
+    "index.html": "/SuperSquad/index.html",
+    "precache-manifest.c102723c3f455ff800521499bb51b226.js": "/SuperSquad/precache-manifest.c102723c3f455ff800521499bb51b226.js",
+    "service-worker.js": "/SuperSquad/service-worker.js",
+    "static/css/main.49fb76cc.chunk.css.map": "/SuperSquad/static/css/main.49fb76cc.chunk.css.map",
+    "static/js/2.75b17cce.chunk.js.LICENSE.txt": "/SuperSquad/static/js/2.75b17cce.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SuperSquad/static/media/bg.117150ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab62cc3f.js",
+    "static/js/2.75b17cce.chunk.js",
+    "static/css/main.49fb76cc.chunk.css",
+    "static/js/main.bafcd27b.chunk.js"
+  ]
+}
